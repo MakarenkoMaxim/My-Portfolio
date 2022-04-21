@@ -1,2 +1,0 @@
-razdel==0.5.0
-fasttext==0.9.2
